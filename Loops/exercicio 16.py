@@ -1,0 +1,6 @@
+print("501 = 10 de cinquenta e 1 de um")
+print("745 = 14 de cinquenta, 2 de vinte e 1 de cinco")
+print("384 = 7 de cinquenta, 1 de vinte, 1 de dez e 4 de um")
+print("2 = 2 de um")
+print("7 = 1 de cinco e 2 de um")
+print("1 - 1 de um")

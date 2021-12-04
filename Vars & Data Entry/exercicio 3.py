@@ -1,0 +1,6 @@
+dias = int(input("Insira os dias para virarem segundos: "))
+horas = int(input("Insira as horas para virarem segundos: "))
+minutos = int(input("Insira os minutos para virarem segundos: "))
+segundos = int(input("Insira os segundos para serem somados aos anteriores: "))
+segundos += (dias * 86400) + (horas * 3600) + (minutos * 60)
+print("Total de dias, horas, minutos e segundos informados foram de: " + str(segundos) + " segundos")

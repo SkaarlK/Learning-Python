@@ -1,0 +1,1 @@
+print("Sim, os codigos são equivalentes.")

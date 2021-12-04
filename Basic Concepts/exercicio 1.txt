@@ -1,0 +1,4 @@
+import math
+print(10 + 20 * 30) #610
+print(math.pow(4,2)/30) #0.53333...
+print((math.pow(9,4)+2)* 6 - 1) #39377.0
